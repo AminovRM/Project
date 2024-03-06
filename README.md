@@ -18,7 +18,12 @@ http://bashorg.org/ или его клона http://ibash.org.ru/, которы�
 цитатам в интерфейсе бота
 Материалы, которые используются при создании
 http://ibash.org.ru/
+
 https://jsoup.org/
+
 https://start.spring.io/
+
 https://github.com/pengrad/java-telegram-bot-api
+
 https://www.docker.com/
+
